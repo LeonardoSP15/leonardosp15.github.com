@@ -17,7 +17,7 @@ console.log("hola desde un archivo externo de javascript");
         content.add.remove("animate__animated");
 
         setTimeout(function(){
-            location.href = "/";
+            location.href = "/boletines";
         },600)
 
 
